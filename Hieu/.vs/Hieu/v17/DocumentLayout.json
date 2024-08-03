@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KiemThuNangCao\\ASM_FINAL\\Hieu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFEBF36-626A-40EA-9F78-B79913D8D232}|Hieu\\Hieu.csproj|d:\\kiemthunangcao\\asm_final\\hieu\\hieu\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFEBF36-626A-40EA-9F78-B79913D8D232}|Hieu\\Hieu.csproj|solutionrelative:hieu\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFEBF36-626A-40EA-9F78-B79913D8D232}|Hieu\\Hieu.csproj|d:\\kiemthunangcao\\asm_final\\hieu\\hieu\\tinhhieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFEBF36-626A-40EA-9F78-B79913D8D232}|Hieu\\Hieu.csproj|solutionrelative:hieu\\tinhhieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TinhHieu.cs",
+              "DocumentMoniker": "D:\\KiemThuNangCao\\ASM_FINAL\\Hieu\\Hieu\\TinhHieu.cs",
+              "RelativeDocumentMoniker": "Hieu\\TinhHieu.cs",
+              "ToolTip": "D:\\KiemThuNangCao\\ASM_FINAL\\Hieu\\Hieu\\TinhHieu.cs",
+              "RelativeToolTip": "Hieu\\TinhHieu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T01:40:50.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\KiemThuNangCao\\ASM_FINAL\\Hieu\\Hieu\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Hieu\\UnitTest1.cs",
+              "ToolTip": "D:\\KiemThuNangCao\\ASM_FINAL\\Hieu\\Hieu\\UnitTest1.cs",
+              "RelativeToolTip": "Hieu\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T01:40:02.279Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

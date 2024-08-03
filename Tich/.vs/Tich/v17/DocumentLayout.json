@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KiemThuNangCao\\ASM_FINAL\\Tich\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{485CEA39-6DAD-4D3B-BBF0-4D7CFB27D25E}|Tich\\Tich.csproj|d:\\kiemthunangcao\\asm_final\\tich\\tich\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{485CEA39-6DAD-4D3B-BBF0-4D7CFB27D25E}|Tich\\Tich.csproj|solutionrelative:tich\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{485CEA39-6DAD-4D3B-BBF0-4D7CFB27D25E}|Tich\\Tich.csproj|d:\\kiemthunangcao\\asm_final\\tich\\tich\\tich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{485CEA39-6DAD-4D3B-BBF0-4D7CFB27D25E}|Tich\\Tich.csproj|solutionrelative:tich\\tich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "tich.cs",
+              "DocumentMoniker": "D:\\KiemThuNangCao\\ASM_FINAL\\Tich\\Tich\\tich.cs",
+              "RelativeDocumentMoniker": "Tich\\tich.cs",
+              "ToolTip": "D:\\KiemThuNangCao\\ASM_FINAL\\Tich\\Tich\\tich.cs",
+              "RelativeToolTip": "Tich\\tich.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T01:21:35.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\KiemThuNangCao\\ASM_FINAL\\Tich\\Tich\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Tich\\UnitTest1.cs",
+              "ToolTip": "D:\\KiemThuNangCao\\ASM_FINAL\\Tich\\Tich\\UnitTest1.cs",
+              "RelativeToolTip": "Tich\\UnitTest1.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAQwBQAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T01:17:34.648Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
